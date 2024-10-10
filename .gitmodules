@@ -1,3 +1,6 @@
 [submodule "orderbook/lib/forge-std"]
 	path = orderbook/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "orderbook/lib/openzeppelin-contracts"]
+	path = orderbook/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
